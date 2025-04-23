@@ -23,7 +23,7 @@ If you find this code helpful, please kindly cite:
   year={2025},
   volume={},
   number={},
-  pages={1-1},
+  pages={},
   keywords={},
   doi={}
 
