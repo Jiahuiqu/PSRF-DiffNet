@@ -3,8 +3,8 @@ The implementation of the paper "Progressive Synergistic Registration and Fusion
 
 ## Prerequisites
 
-- Ubuntu 20.04 cuda 11.6
-- Python 3.7 Pytorch 1.13.1 dgl 2.0.0
+- Ubuntu 20.04 cuda 12.2
+- Python 3.7 Pytorch 2.4.0 
 
 ## Usage
 
