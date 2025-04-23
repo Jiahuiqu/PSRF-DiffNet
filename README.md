@@ -8,7 +8,7 @@ The implementation of the paper "Progressive Synergistic Registration and Fusion
 
 ## Usage
 
-The netWork.py include main model structure.
+The network.py include main model structure.
 
 Please run PSRF-DiffNet_train.py for training and run PSRF-DiffNet_test for testing.
 
