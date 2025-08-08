@@ -16,15 +16,15 @@ Please run PSRF-DiffNet_train.py for training and run PSRF-DiffNet_test for test
 If you find this code helpful, please kindly cite:
 
 ```
-@ARTICLE{10745532,
-  author={Qu, Jiahui and He, Jie, and Li, Yunsong and Dong, Wenqian and Liu, Sen},
+@ARTICLE{10976398,
+  author={Qu, Jiahui and He, Jie and Li, Yunsong and Dong, Wenqian and Liu, Sen},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-  title={Progressive Synergistic Registration and Fusion Diffusion Network For Unregistered Hyperspectral and Multispectral Image Fusion}, 
+  title={Progressive Synergistic Registration and Fusion Diffusion Network for Unregistered Hyperspectral and Multispectral Image Fusion}, 
   year={2025},
-  volume={},
+  volume={63},
   number={},
-  pages={},
-  keywords={},
-  doi={}
+  pages={1-14},
+  keywords={Hyperspectral imaging;Deformation;Spatial resolution;Image fusion;Accuracy;Imaging;Atmospheric modeling;Transformers;Image reconstruction;Feature extraction;Diffusion;hyperspectral image;non-rigid registration;super-resolution},
+  doi={10.1109/TGRS.2025.3564055}}
 
 ```
